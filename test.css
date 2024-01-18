@@ -1,0 +1,54 @@
+img {
+    height: 50px; 
+    width: auto; 
+}
+button {
+    border: none;
+    background-color: whitesmoke;
+  }
+
+.icon{
+    height: 20px; 
+    width: auto;  
+}
+b {
+    color: black;
+}
+.pages{
+    padding-left: 15%; 
+    margin-bottom: 3%;
+    margin-top: 3%; 
+}
+.started{
+    border: 1px;
+    background-color: bisque;
+    padding: 10px;
+    text-align: center;
+}
+.editor{
+    display: block;
+    margin: auto;
+    height: 100px; 
+    width: auto; 
+}
+.play{
+    display: block;
+    margin: auto;
+    height: 20px; 
+    width: auto; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+h1{
+    color: black;
+}
+p{
+    width: 55%;
+    margin: auto;
+    margin-top: 20px; 
+}
+.started img,
+.started b{
+    display: inline-block;
+    color: rgb(20, 102, 169);
+}
